@@ -1,0 +1,14 @@
+body{
+    background-image: url("sing2.jpg");
+background-size: cover;
+}
+
+h1{
+    color:cornsilk;
+}
+#nama{
+    color:cornsilk;
+    font-weight: bold;
+    font-family:  'Arial Narrow';
+    
+}
